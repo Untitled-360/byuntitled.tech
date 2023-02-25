@@ -9,6 +9,7 @@
   <link rel="shortcut icon" sizes="196x196" href="/sd.png">
     <meta name="apple-mobile-web-app-orientations" content="portrait-any">
    <meta name="apple-mobile-web-app-title" content="stemDrive">
+   <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/sd.png">
   <title>stemDrive by Untitled</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
